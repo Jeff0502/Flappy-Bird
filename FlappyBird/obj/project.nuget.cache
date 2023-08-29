@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxHDEJ3hdh9sc8fTud1G3T9MSTjwZwMF6s9YDm351sbyunhad0Cij8bURIfPwShHKyNpKNsnmvIkAvEJWIYUpg==",
+  "dgSpecHash": "ziv3Z3Szi8P+ODwwY7TRkl8e/CwXOm6gHzvyzcFrFXIlBqFrc5NtTt+GbYKxAul+4DQ9a34spU3mnL7oKMjQ9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\.52\\source\\repos\\FlappyBird\\FlappyBird\\FlappyBird.csproj",
+  "projectFilePath": "D:\\UserData Archive\\jeffj\\source\\repos\\FlappyBird\\FlappyBird\\FlappyBird.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\.52\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\.52\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

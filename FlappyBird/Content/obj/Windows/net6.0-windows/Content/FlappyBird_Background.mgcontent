@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/FlappyBird_Background.png</SourceFile>
+  <SourceFile>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/FlappyBird_Background.png</SourceFile>
   <SourceTime>2021-06-23T15:37:09.6963293+02:00</SourceTime>
-  <DestFile>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/bin/Windows/Content/FlappyBird_Background.xnb</DestFile>
-  <DestTime>2023-08-29T10:39:55.365393+02:00</DestTime>
+  <DestFile>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/bin/Windows/Content/FlappyBird_Background.xnb</DestFile>
+  <DestTime>2023-08-29T11:16:31.6017304+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

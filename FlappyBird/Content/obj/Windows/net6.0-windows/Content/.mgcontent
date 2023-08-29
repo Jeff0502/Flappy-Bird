@@ -4,11 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Bird Concept.png</File>
-    <File>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Death Screen.png</File>
-    <File>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/FlappyBird_Background.png</File>
-    <File>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Pipe Concept.png</File>
-    <File>C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Start menu.png</File>
+    <File>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/Bird Concept.png</File>
+    <File>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/Death Screen.png</File>
+    <File>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/FlappyBird_Background.png</File>
+    <File>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/Pipe Concept.png</File>
+    <File>D:/UserData Archive/jeffj/source/repos/FlappyBird/FlappyBird/Content/Start menu.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
