@@ -1,5 +1,5 @@
 # Flappy-Bird
-A flappy bird "clone" in C#, MonoGame.
+A flappy bird "clone" in C#, MonoGame. My first game ever made and the first (complete) program I wrote.
 
 Requirements:
 =============
