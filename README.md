@@ -11,4 +11,4 @@ Requirements:
 
 Demo:
 =====
-![Output sample](https://github.com/Jeff0502/Flappy-Bird/edit/master/FlappyBird.gif)
+![Output sample](https://github.com/Jeff0502/Flappy-Bird/blob/master/FlappyBird.gif)
