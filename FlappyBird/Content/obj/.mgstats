@@ -1,6 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Bird Concept.png","C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/bin/Bird Concept.xnb","TextureProcessor","Texture2DContent",474,9877,0,1628855
-"C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Death Screen.png","C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/bin/Death Screen.xnb","TextureProcessor","Texture2DContent",4179,1920085,0,1149503
-"C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/FlappyBird_Background.png","C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/bin/FlappyBird_Background.xnb","TextureProcessor","Texture2DContent",42476,3145813,0,1268651
-"C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Pipe Concept.png","C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/bin/Pipe Concept.xnb","TextureProcessor","Texture2DContent",1496,212885,0,0125656
-"C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/Start menu.png","C:/Users/.52/source/repos/FlappyBird/FlappyBird/Content/bin/Start menu.xnb","TextureProcessor","Texture2DContent",83231,1920085,0,0841062
